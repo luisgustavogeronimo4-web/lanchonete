@@ -20,7 +20,7 @@ Este programa consiste num sistema automatizado de atendimento e gestão de pedi
 - **Selecção da Forma de Pagamento:** Escolha validada entre Dinheiro, PIX e Cartão através da estrutura match-case
 - **Resumo do Pedido:** Exibição final organizada contendo o nome do cliente, valor original, percentual e valor do desconto, valor final a pagar e forma de pagamento
 
-## 🛠️ Instruções Necessárias para Executar o Programa
+##  Instruções Necessárias para Executar o Programa
 
 ### Pré-requisitos
 - Ter o **Python 3.10** ou superior instalado no sistema
